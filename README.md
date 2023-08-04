@@ -2,7 +2,7 @@
 <h1 align="center">I'm Luka Nikcevic</h1>
 <h3 align="center">React developer from Montenegro</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-- 🔭 I’m currently working on <a href="https://github.com/LukaNikcevic77/T2M">T2M</a>
+- 🔭 I’m currently working on <a href="https://github.com/LukaNikcevic77/E-commerce">Nyx</a>
 
 - 🌱 I’m currently learning **Full stack web development**
 
